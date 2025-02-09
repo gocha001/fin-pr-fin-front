@@ -3,7 +3,7 @@ import axios from "axios";
 
 // Create an Axios instance with a base URL for API requests
 export const axiosInstance = axios.create({
-  baseURL: "https://water-tracker-backend-guwj.onrender.com",
+  baseURL: "https://fin-pr-fin-bek.onrender.com",
   withCredentials: true,
 });
 
